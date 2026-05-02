@@ -1,0 +1,7 @@
+lecture_id,doctor_id,subject_id,day_name,start_time,end_time,room
+ADVSTAT_MON_1,D01,ADV_STAT,Monday,09:00,10:30,Lab-1
+ADVSTAT_MON_2,D01,ADV_STAT,Monday,11:00,12:30,Lab-1
+ADVSTAT_WED_1,D01,ADV_STAT,Wednesday,10:00,11:30,Lab-2
+ML_TUE_1,D01,ML,Tuesday,12:00,13:30,Lab-3
+AI_SUN_1,D02,AI,Sunday,09:00,10:30,Hall-A
+CV_THU_1,D02,CV,Thursday,13:00,14:30,Hall-B

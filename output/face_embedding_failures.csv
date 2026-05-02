@@ -1,0 +1,23 @@
+student_id,image_path,reason
+211014850,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\211014850.0\img_001.jpg,no_face_detected
+231004206,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231004206.0\img_001.jpg,error:cannot identify image file 'C:\\Users\\Hero\\Documents\\sem6\\adv.stat\\Project\\faces\\231004206.0\\img_001.jpg'
+231004713,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231004713.0\img_001.jpg,no_face_detected
+231004727,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231004727.0\img_001.jpg,no_face_detected
+231005789,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231005789.0\img_001.jpg,multiple_faces_detected
+231005898,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231005898.0\img_001.jpg,no_face_detected
+231005915,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231005915.0\img_001.jpg,error:cannot identify image file 'C:\\Users\\Hero\\Documents\\sem6\\adv.stat\\Project\\faces\\231005915.0\\img_001.jpg'
+231006272,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231006272.0\img_001.jpg,no_face_detected
+231006507,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231006507.0\img_001.jpg,error:cannot identify image file 'C:\\Users\\Hero\\Documents\\sem6\\adv.stat\\Project\\faces\\231006507.0\\img_001.jpg'
+231006804,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231006804.0\img_001.jpg,no_face_detected
+231006825,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231006825.0\img_001.jpg,no_face_detected
+231014002,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014002.0\img_001.jpg,no_face_detected
+231014025,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014025.0\img_001.jpg,no_face_detected
+231014067,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014067.0\img_001.jpg,no_face_detected
+231014395,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014395.0\img_001.jpg,no_face_detected
+231014755,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014755.0\img_001.jpg,no_face_detected
+231014761,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014761.0\img_001.jpg,error:cannot identify image file 'C:\\Users\\Hero\\Documents\\sem6\\adv.stat\\Project\\faces\\231014761.0\\img_001.jpg'
+231014783,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231014783.0\img_001.jpg,error:cannot identify image file 'C:\\Users\\Hero\\Documents\\sem6\\adv.stat\\Project\\faces\\231014783.0\\img_001.jpg'
+231015004,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231015004.0\img_001.png,no_face_detected
+231015004,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231015004.0\img_002.jpg,no_face_detected
+231016666,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\231016666.0\img_001.jpg,no_face_detected
+241004978,C:\Users\Hero\Documents\sem6\adv.stat\Project\faces\241004978.0\img_001.jpg,no_face_detected

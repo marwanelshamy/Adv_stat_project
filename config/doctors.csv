@@ -1,0 +1,3 @@
+doctor_id,doctor_name,username,password,subjects
+D01,Dr. Ahmed,ahmed,1234,ADV_STAT|ML
+D02,Dr. Mona,mona,1234,AI|CV

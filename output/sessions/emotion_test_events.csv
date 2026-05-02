@@ -1,0 +1,2 @@
+﻿session_id,timestamp,frame_index,student_id,distance,emotion,emotion_confidence,top,right,bottom,left
+emotion_test,2026-05-01 16:41:11,0,231014241,0.524234,happy,80.0,990,1632,1311,1311
